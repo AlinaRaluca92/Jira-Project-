@@ -184,4 +184,30 @@ The test cases with steps can be viewed here: [Test cases](https://github.com/Al
 
 •	Create the test suites (Cycle Summary) (grouped by release version or testing type)
 
+###   2.5	 Text Execution 
+
+•	The tests will be executed on the latest versions of browsers: Chrome, Mozilla Firefox, IE. If time will be available, we will extend tests on other browsers. 
+
+•	Bugs (defects) will be created based on the failed test cases.
+
+•	The full regression testing will be done after new application changes.
+
+•	Retesting will be done after a bug fix .
+
+
+###   2.6	 Test closure 
+
+•	at least 90% of tests are passed.
+
+•	no Critical issues have Open status.
+
+###   2.7	 Test monitoring and control
+
+•	Status reports will be generated to reflect the current status of testing process.
+
+•	In case of major problems, control measures will be taken. 
+
+
+
+
 
