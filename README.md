@@ -21,9 +21,9 @@ This release will have have limited features. Over a period of time, new functio
 ###  1.1	 Project Objective
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
-Application under test: https://jpetstore.aspectran.com/catalog/
+Application under test:[JPetStore Demo](https://jpetstore.aspectran.com/catalog/).
 
-Documentation: https://jpetstore.mate.academy/jpetstore/help.html#SigningUp
+[Documentation](https://jpetstore.mate.academy/jpetstore/help.html#SigningUp)
 
 
 ###  1.2	 Functionalities in scope
