@@ -173,6 +173,6 @@ The following test conditions were found:
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 
-
+The test cases with steps can be viewed here: [Test cases](https://github.com/AlinaRaluca92/Jira-Project-/blob/main/Test%20case%20report.pdf)
 
 
