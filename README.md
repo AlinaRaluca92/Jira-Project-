@@ -176,3 +176,12 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 The test cases with steps can be viewed here: [Test cases](https://github.com/AlinaRaluca92/Jira-Project-/blob/main/Test%20case%20report.pdf)
 
 
+###  2.4	 Test implementation
+
+•	All the test data is available and reviewed (test data= email examples, password examples, employee, user with admin role)
+
+•	This test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority.
+
+•	Create the test suites (Cycle Summary) (grouped by release version or testing type)
+
+
