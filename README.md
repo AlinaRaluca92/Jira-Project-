@@ -10,7 +10,7 @@
 
 ###### The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and aplly them in practice, using a live application
 
-###### Application under test:[JPetStore Demo] (https://jpetstore.aspectran.com/catalog/)
+###### Application under test: [JPetStore Demo](https://jpetstore.aspectran.com/catalog/).
 ###### Tools used: Jira, Zephyr Squad.
 
 ###  1.	Introduction
