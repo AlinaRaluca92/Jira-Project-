@@ -207,6 +207,11 @@ The test cases with steps can be viewed here: [Test cases](https://github.com/Al
 
 •	In case of major problems, control measures will be taken. 
 
+##  3.	Test deliverables  
+
+![daily test execution progress](https://github.com/AlinaRaluca92/Jira-Project-/assets/161631059/aa526537-d312-45fe-af02-335a383a62a5)
+
+
 
 
 
