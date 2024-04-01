@@ -168,6 +168,10 @@ The following test conditions were found:
 	Verify that if a client can cancel (delete) an order after placing it.   
 
 
+###  2.3 Test design 
+
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+
 
 
 
