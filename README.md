@@ -211,6 +211,8 @@ The test cases with steps can be viewed here: [Test cases](https://github.com/Al
 
 ![daily test execution progress](https://github.com/AlinaRaluca92/Jira-Project-/assets/161631059/aa526537-d312-45fe-af02-335a383a62a5)
 
+![test execution](https://github.com/AlinaRaluca92/Jira-Project-/assets/161631059/364fc34d-8c91-463d-9b27-689a982de6e7)
+
 
 
 
