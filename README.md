@@ -213,6 +213,7 @@ The test cases with steps can be viewed here: [Test cases](https://github.com/Al
 
 ![test execution](https://github.com/AlinaRaluca92/Jira-Project-/assets/161631059/364fc34d-8c91-463d-9b27-689a982de6e7)
 
+![Traciabilit](https://github.com/AlinaRaluca92/Jira-Project-/blob/main/traciability%20matrix.JPG)
 
 
 
