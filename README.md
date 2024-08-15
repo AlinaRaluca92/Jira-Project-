@@ -62,7 +62,7 @@ Application under test:[JPetStore Demo](https://jpetstore.aspectran.com/catalog/
 
 •	QA Engineer – Alina Raluca Ion
 
-#####  Entry criteria:
+###  Entry criteria:
 
 •	smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing).
 
@@ -78,7 +78,7 @@ Application under test:[JPetStore Demo](https://jpetstore.aspectran.com/catalog/
 
 •	the test plan must be created.
 
-#####  Exit criteria:
+###  Exit criteria:
 
 •	100% of tests are executed.
 
@@ -92,18 +92,19 @@ Application under test:[JPetStore Demo](https://jpetstore.aspectran.com/catalog/
 
 •	all required documentation, including test plans, test cases, and test results, has been completed and reviewed.
 
-#####  Risks:
+###  Risks:
+
+Project Risks 
+•	Budget Overruns: Unexpected expenses can strain the project budget, potentially requiring trade-offs in features or quality.
 •	stability risks (crashes, disconnects, etc).
-
-•	IE browser might have performance issues.
-
 •	Poor communication and collaboration between team members, stakeholders or external suppliers can lead to misunderstandings, delays, and rework.
-
 •	stress conditions might impact the web application.
 
+Product Risks 
+•	IE browser might have performance issues.
 •	new browser might not be supported.
 
-•	Budget Overruns: Unexpected expenses can strain the project budget, potentially requiring trade-offs in features or quality.
+
 
 
 
