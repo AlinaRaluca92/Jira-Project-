@@ -216,6 +216,14 @@ The test cases with steps can be viewed here: [Test cases](https://github.com/Al
 ![Traciabilit](https://github.com/AlinaRaluca92/Jira-Project-/blob/main/traciability%20matrix.JPG)
 
 
+### Concluzion
+In this project, a comprehensive testing process was conducted, which included creating 1 epic, 3 user stories, 2 tasks, and executing 27 test cases. The testing efforts placed a strong emphasis on ensuring product quality, as evidenced by the identification and resolution of 9 bugs. This proactive approach in addressing issues has led to significant product improvements.
+
+The identified defects were promptly fixed and retested, reducing product risks and contributing to a stable application upgrade. As the project progresses, the focus will shift to retesting and regression testing in the upcoming application version to ensure continued quality and reliability.
+
+
+
+
 
 
 
