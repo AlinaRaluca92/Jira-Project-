@@ -95,13 +95,21 @@ Application under test:[JPetStore Demo](https://jpetstore.aspectran.com/catalog/
 ###  Risks:
 
 Project Risks 
+
+
 •	Budget Overruns: Unexpected expenses can strain the project budget, potentially requiring trade-offs in features or quality.
+
 •	stability risks (crashes, disconnects, etc).
+
 •	Poor communication and collaboration between team members, stakeholders or external suppliers can lead to misunderstandings, delays, and rework.
+
 •	stress conditions might impact the web application.
 
 Product Risks 
+
+
 •	IE browser might have performance issues.
+
 •	new browser might not be supported.
 
 
